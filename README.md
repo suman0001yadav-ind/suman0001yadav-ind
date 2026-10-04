@@ -1,4 +1,11 @@
-http://127.0.0.1:5500/Lecture-08/index.html
+
+<div align="center">
+  <!-- Replace 'banner.gif' with your generated GitHub link if you dragged and dropped the file -->
+  <img src="banner.gif" alt="Suman Kumar Yadav Animated Banner" width="100%" />
+  
+  <!-- NOTE: If you used the .mp4 video instead of the GIF, delete the <img> tag above and use this <video> tag instead: -->
+  <!-- <video src="YOUR_VIDEO_LINK_HERE" autoplay loop muted playsinline width="100%"></video> -->
+</div>
 
 # 👋 Hi, I'm Suman Kumar Yadav
 
