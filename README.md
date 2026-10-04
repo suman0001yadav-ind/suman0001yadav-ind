@@ -96,7 +96,7 @@ MongoDB
 Full-Stack Projects
 ```
 
-I'm currently working through the **Sigma Web Development** learning journey and practicing by building small projects and exercises.
+I'm currently working through the **Web Development** learning journey and practicing by building small projects and exercises.
 
 ---
 
