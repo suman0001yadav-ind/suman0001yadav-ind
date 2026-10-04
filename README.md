@@ -1,10 +1,19 @@
 # 👋 Hi, I'm Suman Kumar Yadav
 
-### 💻 BCA (AI & Data Science) Student | Aspiring Software Developer
+# 👋 Hi, I'm Suman Kumar Yadav
 
-I'm a Computer Applications student passionate about **software development, problem solving, web development, and AI**.
+### **Software Developer • AI/ML Enthusiast • Full-Stack Developer • Problem Solver**
 
-I enjoy learning by building projects, solving coding problems, and continuously improving my development skills. 🚀
+I'm a developer focused on **building practical software, solving real-world problems, and continuously improving my development skills.** 🚀
+
+My interests sit at the intersection of:
+
+**Artificial Intelligence × Full-Stack Development × Data Structures & Algorithms × Data Analytics**
+
+I'm currently exploring **Java, Python, JavaScript, React, Node.js, SQL, MongoDB, and AI/ML**, while building projects and solving problems to strengthen my fundamentals.
+
+> 💡 **Learn. Build. Solve. Repeat.**
+
 
 ---
 
