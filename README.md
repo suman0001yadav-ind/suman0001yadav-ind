@@ -147,14 +147,7 @@ A concept for improving college transportation by helping students access campus
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://github.com/suman0001yadav-ind">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/suman-kumar-yadav-856469366">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<p> <a href="https://github.com/suman0001yadav-ind"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/suman-kumar-yadav-856469366"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/Suman-21/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </p>
 
 ---
 
