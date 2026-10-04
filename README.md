@@ -1,11 +1,4 @@
-
-<div align="center">
-  <!-- Replace 'banner.gif' with your generated GitHub link if you dragged and dropped the file -->
-  <img src="banner.gif" alt="Suman Kumar Yadav Animated Banner" width="100%" />
-  
-  <!-- NOTE: If you used the .mp4 video instead of the GIF, delete the <img> tag above and use this <video> tag instead: -->
-  <!-- <video src="YOUR_VIDEO_LINK_HERE" autoplay loop muted playsinline width="100%"></video> -->
-</div>
+<img width="1237" height="652" alt="image" src="https://github.com/user-attachments/assets/8f75a3dc-b360-4c2a-8ab1-79fdea4ab0a1" />
 
 # 👋 Hi, I'm Suman Kumar Yadav
 
