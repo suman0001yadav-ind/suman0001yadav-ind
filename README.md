@@ -126,19 +126,6 @@ A concept for improving college transportation by helping students access campus
 
 ---
 
-## 📈 My Learning Goals
-
-* [ ] Master DSA patterns
-* [ ] Solve 100+ LeetCode problems
-* [ ] Build strong Java fundamentals
-* [ ] Become confident with React
-* [ ] Learn backend development
-* [ ] Build production-level projects
-* [ ] Learn more about AI/ML
-* [ ] Contribute to Open Source
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
