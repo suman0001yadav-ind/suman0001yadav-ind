@@ -1,9 +1,13 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1500&color=2196F3&center=true&vCenter=true&width=800&height=90&lines=SUMAN+KUMAR+YADAV;Software+Developer;System+Design+%7C+Full-Stack;DSA+%7C+Problem+Solving;AI+%7C+Data+%7C+Technology" alt="Animated introduction" />
-
+  <img 
+    src="./assets/github-banner.png"
+    alt="Suman Kumar Yadav - Software Developer"
+    width="100%"
+    style="border-radius: 12px;"
+  />
 </div>
 
+<br>
 
 # 👋 Hi, I'm Suman Kumar Yadav
 
