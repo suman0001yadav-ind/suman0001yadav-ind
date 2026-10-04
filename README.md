@@ -1,3 +1,11 @@
+<div align="center">
+  <!-- OPTION 1: If using your own uploaded GIF/Image, uncomment the line below and add your link -->
+  <!-- <img src="YOUR_IMAGE_URL_HERE" alt="Suman Kumar Yadav Banner" width="100%" /> -->
+  
+  <!-- OPTION 2: An auto-generated animated typing banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=50&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=120&lines=SUMAN+KUMAR+YADAV;Software+Developer;Problem+Solver;AI+%26+Data+Science" alt="Typing SVG" />
+</div>
+
 # 👋 Hi, I'm Suman Kumar Yadav
 
 ### **Software Developer • System Design • Full-Stack Developer • Problem Solver**
