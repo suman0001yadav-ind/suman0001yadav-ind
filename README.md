@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Suman Kumar Yadav
 
-# 👋 Hi, I'm Suman Kumar Yadav
-
-### **Software Developer • AI/ML Enthusiast • Full-Stack Developer • Problem Solver**
+### **Software Developer • System Design • Full-Stack Developer • Problem Solver**
 
 I'm a developer focused on **building practical software, solving real-world problems, and continuously improving my development skills.** 🚀
 
