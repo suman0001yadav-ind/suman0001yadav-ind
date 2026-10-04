@@ -1,4 +1,4 @@
-<img width="1237" height="652" alt="image" src="https://github.com/user-attachments/assets/8f75a3dc-b360-4c2a-8ab1-79fdea4ab0a1" />
+<img width="1237" height="652" alt="image" src="banner.jpg.mp4" />
 
 # 👋 Hi, I'm Suman Kumar Yadav
 
