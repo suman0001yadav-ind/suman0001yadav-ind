@@ -23,19 +23,19 @@ I enjoy learning by building projects, solving coding problems, and continuously
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### Web Development
+### ⚛️ Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs" />
 </p>
 
-### Database & Tools
+### ⚙️👨‍💻Database & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
