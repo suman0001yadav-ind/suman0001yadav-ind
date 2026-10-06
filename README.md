@@ -67,7 +67,7 @@ Currently practicing DSA with **Java** and focusing on understanding patterns ra
 * Recursion
 * Two Pointers
 * Binary Search
-* Basic Data Structures
+* Data Structures
 * Problem Solving
 
 🏆 **50+ LeetCode Problems Solved**
