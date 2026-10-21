@@ -140,7 +140,7 @@ A concept for improving college transportation by helping students access campus
 
 ## 🏆 Coding Profiles
 
-* 💻 **LeetCode:** 50+ problems solved
+* 💻 **LeetCode:** 80+ problems solved
 * 🐙 **GitHub:** Building consistently and documenting my learning journey
 
 ---
