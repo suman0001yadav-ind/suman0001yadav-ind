@@ -22,7 +22,7 @@ I'm currently exploring **Java, Python, JavaScript, React, Node.js, SQL, MongoDB
 
 * 🎓 Pursuing **BCA in Artificial Intelligence & Data Science**
 * 💻 Currently strengthening my **DSA & Software Development** fundamentals
-* 🧩 Solved **50+ problems on LeetCode**
+* 🧩 Solved **85+ problems on LeetCode**
 * 🌐 Learning **Full-Stack Web Development**
 * 🤖 Exploring **AI & Data Science**
 * 📚 Currently working on improving my **Java, JavaScript and problem-solving skills**
