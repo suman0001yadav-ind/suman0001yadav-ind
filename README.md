@@ -70,7 +70,7 @@ Currently practicing DSA with **Java** and focusing on understanding patterns ra
 * Data Structures
 * Problem Solving
 
-🏆 **50+ LeetCode Problems Solved**
+🏆 **85+ LeetCode Problems Solved**
 
 ---
 
